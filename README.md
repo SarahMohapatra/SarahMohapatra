@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a sophomore double majoring in Computer Science and Data Science at Purdue. I have hands-on experience in python, R, and building ML models. <br>I study and research about Large Language models, RAG, machine learning models and how we can use them in real life.<br>
+I am a sophomore double majoring in Computer Science and Data Science at Purdue. I have hands-on experience in python, R, and building ML models. <br>I study and research about Large Language models, RAG, machine learning  models, deep learning, neural networks and how we can use them in real life.<br>
 
 
 ## 🌐 Socials:
